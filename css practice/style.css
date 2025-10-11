@@ -1,0 +1,35 @@
+ table{
+                border-width: 2px;
+                background-color: cyan;
+                padding: 5px;
+                align-content: center;
+                align-items: center;
+                align-self: center;
+            }
+            
+            tr
+            {
+                background-color: black;
+                border: 5px;
+                padding: 5px;
+            }
+            td
+            {
+                color: red;
+            }
+            thead
+            {
+                border: 5px;
+                color: yellow;
+                background-color: green;
+            }
+            th,td
+            {
+                border: 3px solid purple;
+            }
+            #footer
+            {
+                color :white;
+                background-color: red;
+            }
+        
